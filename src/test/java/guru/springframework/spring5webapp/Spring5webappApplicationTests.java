@@ -1,3 +1,4 @@
+/*
 package guru.springframework.spring5webapp;
 
 import org.junit.jupiter.api.Test;
@@ -11,3 +12,4 @@ class Spring5webappApplicationTests {
 	}
 
 }
+*/
